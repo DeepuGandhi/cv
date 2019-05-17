@@ -1,0 +1,127 @@
+body{
+    margin : 0;
+    
+    text-align: center;
+}
+h1{
+    color: #71c9ce;
+    border: 5px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin: 0;
+    letter-spacing: 1px;
+    font-size: 5rem;
+    font-weight: lighter;
+    font-family: 'Pacifico', cursive;
+}
+h2{
+    margin-top: 5px;
+    display:block;
+    color: #71c9ce;   
+    font-family: 'Lato', sans-serif;
+
+}
+h3{
+    display:block;
+    color: #71c9ce; 
+    font-family: 'Lato', sans-serif;
+
+}
+span{
+    text-decoration: none; 
+}
+.prog{
+    text-decoration: underline;
+    color: #db5f0d;
+}
+.top-container{
+    margin-top: 0;
+    position: relative;
+    background-color: #f3f9fb;
+}
+.topcloud{
+    margin-top: 0;
+    display: block;
+    position: relative; 
+    left: 700px;
+}
+.bottomcloud{
+    position: relative;
+    right: 200px;
+}
+.mountain{
+    position: relative;
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.middle-container{
+    position: relative;
+    
+}
+.mypic{
+    position: relative;  
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: inline-block;
+}
+p{
+    margin: auto;
+    width: 300px;
+    font-family: 'Roboto Slab', serif;
+}
+hr{
+    margin-top: 60px;
+    border: 8px #cbf1f5;
+    border-top-style: dotted;
+    width: 90px;
+    margin-bottom: 60px;
+}
+.skill-h2{
+    margin-bottom: 0;
+}
+
+.info{
+    text-decoration: none;
+    color: #db5f0d;
+    margin-right: 2.5rem;
+    font-size: 25px;
+    margin-bottom: 2rem;
+}
+a{
+    margin: 5px;
+}
+.skill-name{
+    position: relative;
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+}
+h6{
+    margin: 0;
+    font-size: 1rem;
+    font-family: 'Roboto Slab', serif;
+}
+.comp-image{
+    float: left;
+    margin-right: 30px;
+}
+
+.andimg{
+    float: right;
+    margin-left: 30px;
+}
+
+.appleimg{
+    float: left;
+    margin-right: 30px;
+}
+
+.hackerimg{
+    float: right;
+    margin-left: 30px;
+}
+.bottom-container{
+    background-color: #cbf1f5;
+}
